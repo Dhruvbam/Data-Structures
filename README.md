@@ -31,6 +31,19 @@ This repository primarily utilizes:
     ```
 
 ## Learning Outcomes
-- Implementing and analyzing the performance of linked lists.
-- Comparing the time complexities of sorting algorithms, such as Quicksort, Insertion Sort, and Selection Sort.
-- Understanding the trade-offs between different sorting methods and their real-world performance in various scenarios.
+Through these assignments, I enhanced my understanding of core data structures and algorithms in C, gaining expertise in the following areas:
+
+1. **Linked Lists & Algorithm Efficiency**: 
+   - Implemented and analyzed linked list operations like insertion, deletion, and searching, while improving my ability to evaluate algorithm performance through time complexity analysis.
+
+2. **Sorting Algorithm Comparison**:
+   - Developed and compared **Quicksort**, **Insertion Sort**, and **Selection Sort**. Gained insights into their time complexities and learned to select the optimal algorithm for different scenarios.
+
+3. **C Programming Mastery**:
+   - Strengthened my knowledge of **C**, focusing on memory management, pointer manipulation, and implementing low-level data structures, providing a solid foundation in system-level programming.
+
+4. **Time Complexity Analysis**:
+   - Gained a deep understanding of **Big O** notation, allowing me to evaluate and optimize algorithms for performance and scalability.
+
+This experience has refined my ability to implement and analyze efficient algorithms in real-world applications.
+
