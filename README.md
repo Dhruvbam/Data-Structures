@@ -31,7 +31,6 @@ This repository primarily utilizes:
     ```
 
 ## Learning Outcomes
-By completing these assignments, students gain practical experience in:
 - Implementing and analyzing the performance of linked lists.
 - Comparing the time complexities of sorting algorithms, such as Quicksort, Insertion Sort, and Selection Sort.
 - Understanding the trade-offs between different sorting methods and their real-world performance in various scenarios.
