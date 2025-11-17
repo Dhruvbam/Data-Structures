@@ -1,8 +1,8 @@
 # Data Structures
 ![Image](https://github.com/Dhruvbam/Data-Structures/blob/main/Images/ss.png)
 
-## About
-This repository contains two assignment projects completed as part of the Data Structures (CS 2413) course at Texas Tech University. These assignments focus on implementing fundamental data structure algorithms and analyzing their time complexity. The projects demonstrate the use of linked lists, sorting algorithms (Quicksort, Insertion Sort, and Selection Sort), and the analysis of algorithm performance.
+Collection of projects from my Data Structures course, focusing on implementing and analyzing key algorithms such as linked lists, Quicksort, Insertion Sort, and Selection Sort. Explored the practical aspects of time complexity and algorithm performance through coding and comparative analysis. Gained valuable hands-on experience in data structure design, dynamic memory management, and efficient problem-solving with C.
+
 
 ## Assignments Overview
 
@@ -29,21 +29,4 @@ This repository primarily utilizes:
     gcc Assignment1.c -o Assignment1
     ./Assignment1
     ```
-
-## Learning Outcomes
-Through these assignments, I enhanced my understanding of core data structures and algorithms in C, gaining expertise in the following areas:
-
-1. **Linked Lists & Algorithm Efficiency**: 
-   - Implemented and analyzed linked list operations like insertion, deletion, and searching, while improving my ability to evaluate algorithm performance through time complexity analysis.
-
-2. **Sorting Algorithm Comparison**:
-   - Developed and compared **Quicksort**, **Insertion Sort**, and **Selection Sort**. Gained insights into their time complexities and learned to select the optimal algorithm for different scenarios.
-
-3. **C Programming Mastery**:
-   - Strengthened my knowledge of **C**, focusing on memory management, pointer manipulation, and implementing low-level data structures, providing a solid foundation in system-level programming.
-
-4. **Time Complexity Analysis**:
-   - Gained a deep understanding of **Big O** notation, allowing me to evaluate and optimize algorithms for performance and scalability.
-
-This experience has refined my ability to implement and analyze efficient algorithms in real-world applications.
 
